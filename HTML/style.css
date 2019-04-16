@@ -1,0 +1,205 @@
+.nav.navbar-nav a {
+    padding-top: 23px;
+    padding-bottom: 20px;
+}
+
+.navbar-toggle .icon-bar {
+    background: #003056;
+}
+
+.navbar-toggle {
+    border-color: #003056;
+    margin-top: 15px;
+}
+
+.nav.navbar-nav.navbar-right a {
+    font-size: 22px;
+    color: white;
+}
+
+nav.navbar {
+    margin-bottom: auto;
+    background: url(assets/img/bg.png);
+    border-bottom: 1px solid #0030562e;
+    border-radius: 0px;
+}
+
+.navbar-nav a {
+    color: #003057;
+}
+
+ul.nav.navbar-nav.navbar-right a {
+    font-size: 22px;
+    color: #003057;
+}
+
+.navbar-nav .ad a, .navbar-nav .active a, .navbar-nav .active a:hover, .navbar-nav li a:hover {
+    background: #003057;
+    color: white;
+}
+
+.navbar.scr {
+    background: #edeef2;
+}
+
+.scr.navbar-fixed-top {
+    top: 63px;
+}
+
+.scr .navbar-collapse {
+    padding: 0;
+}
+
+.navbar-nav li.ad {
+    color: #003057;
+    background-color: #0099d8;
+}
+
+.navbar-nav .active a {
+    color: white;
+}
+
+ul.nav.navbar-nav.e {
+    margin-left: 10px;
+}
+
+.nav>li {
+    margin-right: 1px;
+}
+
+.navbar-right a:hover {
+    background: transparent !important;
+}
+
+li.ac {
+    background-color: #0099d8;
+}
+
+.navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:focus, .navbar-inverse .navbar-nav>.active>a:hover {
+    color: #003057;
+    background-color: initial;
+}
+
+.text-lowercase {
+    text-transform: lowercase;
+    font-size: 19px;
+}
+
+.list-group-item-text {
+    text-align: :center;
+    font-size: 14px;
+}
+
+.list-group {
+    margin: auto;
+}
+
+.last {
+    background: #f1f3f4;
+    border-bottom-right-radius: 4px;
+    border-bottom-left-radius: 4px;
+    border: 1px solid #dddddd;
+    border-top: 0;
+    margin-top: -3px;
+}
+
+.control span {
+    font-size: 32px;
+    font-weight: bold;
+    font-family: sans-serif;
+    color: #5cb85c;
+}
+
+.bt {
+    text-align: center;
+}
+
+.im p {
+    color: #33a8d8;
+    font-size: 21px;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+.im {
+    text-align: center;
+}
+
+.control p {
+    text-align: center;
+    font-size: 15px;
+    font-family: sans-serif;
+    color: #33a8d8;
+}
+
+.control {
+    padding: 10px;
+}
+
+.control span {
+    font-size: 32px;
+    font-weight: bold;
+    font-family: sans-serif;
+    color: #33b8e4;
+}
+
+.card .btn {
+    margin-bottom: 10px;
+}
+
+.jumbotron_bg {
+    background-image: url(https://www.localcabledeals.com/content/images/spectrum/grey-bg.jpg);
+    background-size: cover;
+    padding: 20px;
+    margin-bottom: 0;
+    border-bottom: 1px solid #c3c8d4;
+}
+
+.panel-grey {
+    background: #edeef2;
+    padding: 20px;
+    margin: 20px 0;
+}
+
+.panel-grey .table-condensed {
+    background: #fff;
+    border-radius: 4px;
+}
+
+.panel-grey .table-condensed * {
+    border-color: #fff;
+    padding: 10px;
+}
+
+.table td {
+    width: 50%;
+}
+
+.list-group>.last {
+    margin-top: 0;
+    border-top: 1px solid #dddddd;
+}
+
+.im img {
+    height: 49px;
+    max-width: 100%;
+}
+
+@media screen and (max-width:769px) {
+    .card {
+        margin: 20px 0;
+    }
+
+    div#section1 .pull-right {
+        float: none !important;
+    }
+
+    .panel-grey .table-condensed * {
+        padding: 5px;
+    }
+
+    .panel-grey {
+        margin: 0;
+    }
+
+}
